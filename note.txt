@@ -1,0 +1,1 @@
+Cách 1: mở app, chọn 1 image -> reload màn hình và load imageOne theo sự kiện click
